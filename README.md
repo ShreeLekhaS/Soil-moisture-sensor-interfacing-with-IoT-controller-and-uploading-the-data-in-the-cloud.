@@ -138,7 +138,8 @@ void loop()
 }
 ```
 # CIRCUIT DIAGRAM:
-![WhatsApp Image 2024-11-16 at 15 02 35_76b1c189](https://github.com/user-attachments/assets/36a90abe-d00e-408b-b968-62a15acffc5a)
+![WhatsApp Image 2024-11-16 at 15 02 35_a3915806](https://github.com/user-attachments/assets/cc752f47-4721-4027-b3c2-1dd2bcf97f34)
+
 
 # OUTPUT:
 ![WhatsApp Image 2024-11-16 at 15 01 56_44b388f1](https://github.com/user-attachments/assets/2dff03b8-41db-4d62-a1cb-41cdd1284fff)
