@@ -1,16 +1,18 @@
-# Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud.
+## NAME:SHREE LEKHA.S 
+## REGISTER NO.:212223110052
+# Ex-05 Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud.
 
 # AIM:
 To upload the Soil-moisture sensor value in the Things mate using Arduino controller.
 
 # Apparatus required:
-Arduino Controller  </br>
-Indoor gateway</br>
-LoRaWAN shield </br>
-Soil moisture sensor </br>
-Power supply </br>
-Connecting wires </br>
-Bread board </br>
+* Arduino Controller  </br>
+* Indoor gateway</br>
+* LoRaWAN shield </br>
+* Soil moisture sensor </br>
+* Power supply </br>
+* Connecting wires </br>
+* Bread board </br>
 
 # PROCEDURE:
 
