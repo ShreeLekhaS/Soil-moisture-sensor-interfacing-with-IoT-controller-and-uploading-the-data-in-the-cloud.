@@ -95,9 +95,9 @@ char pass[] = "1234";   // your network password
 int keyIndex = 0;            // your network key Index number (needed only for WEP)
 WiFiClient  client;
 
-unsigned long myChannelNumber = 2477459;
+unsigned long myChannelNumber = 2742096;
 const int ChannelField = 1; 
-const char * myWriteAPIKey = "FXZ1HCCF8304J2QT";
+const char * myWriteAPIKey = "K5S84Z1RIXLRX3KB";
 
 const int airValue = 4095;      // Analog value when the sensor is in dry air
 const int waterValue = 0;
